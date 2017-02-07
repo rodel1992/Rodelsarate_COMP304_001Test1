@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">COMP-304 001 TEST 1</string>
+    <string name="welcome">Welcome to Messaging page!</string>
+    <string name="rodelsarate">Rodel Sarate</string>
+    <string name="sarahalbores">Chunchun Gagola</string>
+    <string name="rucilleorpano">Rucille Orpano</string>
+    <string name="luciagagola">Lucia Gagola</string>
+    <string name="rudolfosarate">Rodulfo Sarate</string>
+    <string name="jerryorpano">Jerry Orpano</string>
+    <string name="buttonsend">Send</string>
+    <string name="greeting">How are you?</string>
+</resources>
